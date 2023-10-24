@@ -1,4 +1,4 @@
-## Фронтенд часть дипломной работы Movies Explorer
+## Фронтенд часть дипломной работы Movies Explorer переписанная на TS
 
 Интерактивная SPA-страница, на которой пользователи могут искать фильмы по ключевым словам и добавлять их в избранное.
 
@@ -23,6 +23,7 @@ https://movies-explorer.pavelsm.nomoredomains.monster
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React-router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router)&nbsp;
+![TS](https://img.shields.io/badge/-TS-05122A?style=flat&logo=TS)&nbsp;
 
 ## Возможности приложения:
 
